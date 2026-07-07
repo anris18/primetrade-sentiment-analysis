@@ -1,4 +1,3 @@
-# primetrade-sentiment-analysis
 # Primetrade.ai Data Science Assignment
 
 Analysis of Bitcoin Fear & Greed Index vs Hyperliquid trader performance.
